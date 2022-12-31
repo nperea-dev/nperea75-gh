@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @nperea75-gh
-- 👀 I’m interested in learn how to code in processing, learn web develoment and control electronics 
-- 🌱 I’m currently learning basic java script programming 4/10/2021
-- now im learning python too.
+- 👀 I’m interested in learn how to code in p5js, coding  and control electronics 
+- improving my python skills
 - 
+[portfolio](https://twitter.com/ney_roger](https://portafolio-ney.netlify.app/)
+
 [twitter](https://twitter.com/ney_roger)
+
+[Escríbeme!!](mailto:nperea75@gmail.com)
